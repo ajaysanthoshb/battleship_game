@@ -7,10 +7,10 @@
 
 
 ## Developers
-- Ajay Santhosh Boyina
-- M Karthik
-- Mani Chandra
-- Kishore
+- _Ajay Santhosh Boyina_
+- _M Karthik_
+- _Mani Chandra_
+- _Kishore_
 
 BattleShip is a turn-based two-player game that simulates a war between ships on an ocean.
 
