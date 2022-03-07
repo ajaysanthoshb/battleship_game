@@ -5,6 +5,13 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+
+## Developers
+- Ajay Santhosh Boyina
+- M Karthik
+- Mani Chandra
+- Kishore
+
 BattleShip is a turn-based two-player game that simulates a war between ships on an ocean.
 
 ## Features
@@ -14,6 +21,8 @@ BattleShip is a turn-based two-player game that simulates a war between ships on
 - display results based on who has sunk whos ship
 - display the winner
 
+
+#########################################################################################################
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
 As [John Gruber] writes on the [Markdown site][df1]
